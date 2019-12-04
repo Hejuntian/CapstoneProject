@@ -53,13 +53,13 @@ image:
 ### 摘要
 > 中英文摘要：摘要应概括反映出毕业设计(论文)的内容丶方法丶成果和结论。摘要中不宜使用公式丶图表，不标注引用文献编号。中文摘要一般500字左右
 
-> 对于体育媒体平台来说，赛事直播内容是吸引球迷用户群体最主要的手段，平台的目标是通过其核心交互将赛事直播内容的价值与球迷用户所带来的价值进行交换，而价值交换的方式也催生了平台的商业模式。在经历了一波三折的体育赛事版权斗争后，借助苏宁集团的资源优势，PP体育在体育版权争夺中率先杀出重围，截止至2019年7月，PP体育已经坐拥2019-2020赛季的欧洲五大足球联赛中四项赛事的国内地区全媒体数字运营版权，其中包括了英超这项关注度极高的赛事独家版权，这无疑给致力于打造以足球为内容矩阵的PP体育打下一支强心针，促进其携手苏宁易购打通线上线下消费场景，打造立体化运营。虽然体育产业拥有潜在的巨大价值可供挖掘，但当前体育媒体平台的盈利手段仍然有限，商业模式仍未定型，流量转化的收益难以弥补版权费用的巨大投入等问题也困扰着众多体育媒体平台。本文将通过文档分析以及平台界面分析的研究方法对PP体育媒体平台的核心交互进行分析，并且在这一基础上对PP体育的商业模式进行探索，指出存在的问题以及提出改进的建议。
+对于体育媒体平台来说，赛事直播内容是吸引球迷用户群体最主要的手段，平台的目标是通过其核心交互将赛事直播内容的价值与球迷用户所带来的价值进行交换，而价值交换的方式也催生了平台的商业模式。在经历了一波三折的体育赛事版权斗争后，借助苏宁集团的资源优势，PP体育在体育版权争夺中率先杀出重围，截止至2019年7月，PP体育已经坐拥2019-2020赛季的欧洲五大足球联赛中四项赛事的国内地区全媒体数字运营版权，其中包括了英超这项关注度极高的赛事独家版权，这无疑给致力于打造以足球为内容矩阵的PP体育打下一支强心针，促进其携手苏宁易购打通线上线下消费场景，打造立体化运营。虽然体育产业拥有潜在的巨大价值可供挖掘，但当前体育媒体平台的盈利手段仍然有限，商业模式仍未定型，流量转化的收益难以弥补版权费用的巨大投入等问题也困扰着众多体育媒体平台。本文将通过文档分析以及平台界面分析的研究方法对PP体育媒体平台的核心交互进行分析，并且在这一基础上对PP体育的商业模式进行探索，指出存在的问题以及提出改进的建议。
     
 ### Abstract
 
 > 英文摘要内容应与中文摘要相对应。
 
-> For sports media platforms, live broadcast content is the most important means to attract fan user groups. The goal of the platform is to exchange the value of live broadcast content with the value brought by fan users through its core interaction, and the value exchange method Also spawned the platform's business model. After experiencing a setback in sports competition copyrights, leveraging Suning Group's resource advantages, PP Sports took the lead in the sports copyright contention. As of July 2019, PP Sports has been sitting on the top five European football games for the 2019-2020 season. The domestic regional all-media digital operation rights of the four events in the league, including the exclusive rights of the Premier League, a highly-watched event, will undoubtedly give a strong shot to PP sports, which is committed to creating a football-based content matrix. Promote its cooperation with Suning Tesco to open up online and offline consumption scenarios and create three-dimensional operations. Although the sports industry has potentially huge value to tap, the current means of profit of sports media platforms are still limited, the business model is still indeterminate, and the revenue from traffic conversion is difficult to make up for the huge investment in copyright fees, which also plagues many sports media platforms. This paper will analyze the core interactions of the PP sports media platform through the research methods of document analysis and platform interface analysis, and on this basis, explore the business model of PP sports, point out the existing problems and put forward suggestions for improvement.
+For sports media platforms, live broadcast content is the most important means to attract fan user groups. The goal of the platform is to exchange the value of live broadcast content with the value brought by fan users through its core interaction, and the value exchange method Also spawned the platform's business model. After experiencing a setback in sports competition copyrights, leveraging Suning Group's resource advantages, PP Sports took the lead in the sports copyright contention. As of July 2019, PP Sports has been sitting on the top five European football games for the 2019-2020 season. The domestic regional all-media digital operation rights of the four events in the league, including the exclusive rights of the Premier League, a highly-watched event, will undoubtedly give a strong shot to PP sports, which is committed to creating a football-based content matrix. Promote its cooperation with Suning Tesco to open up online and offline consumption scenarios and create three-dimensional operations. Although the sports industry has potentially huge value to tap, the current means of profit of sports media platforms are still limited, the business model is still indeterminate, and the revenue from traffic conversion is difficult to make up for the huge investment in copyright fees, which also plagues many sports media platforms. This paper will analyze the core interactions of the PP sports media platform through the research methods of document analysis and platform interface analysis, and on this basis, explore the business model of PP sports, point out the existing problems and put forward suggestions for improvement.
 
 ### 关键词
 
@@ -72,7 +72,7 @@ image:
 
 ### 1丶[[C]]理论及[[A]]专业建构物演进过程及[[M]]使用的方法数据
 
-> 通过平台界面分析PP体育的核心交互是赛事直播，文档分析可知核心交互是平台内部活动的最重要形式，是价值的交换，平台将赛事直播内容的价值与球迷用户所带来的价值进行交换，而价值交换的方式也催生了平台的商业模式。
+通过平台界面分析PP体育的核心交互是赛事直播，文档分析可知核心交互是平台内部活动的最重要形式，是价值的交换，平台将赛事直播内容的价值与球迷用户所带来的价值进行交换，而价值交换的方式也催生了平台的商业模式。
 
 ### 2丶国外研究综述
 
@@ -80,13 +80,13 @@ image:
 
 ### 3丶国内研究综述
 
-> PP体育依靠版权优势吸引大量用户，实行“付费+差异化”模式，同时通过“体育+数字”媒体运营模式实现品牌价值与传播能力的升级。
-> 我国体育媒体平台存在着体育赛事IP运营不充分、盈利模式相对滞后等问题。
+PP体育依靠版权优势吸引大量用户，实行“付费+差异化”模式，同时通过“体育+数字”媒体运营模式实现品牌价值与传播能力的升级。
+我国体育媒体平台存在着体育赛事IP运营不充分、盈利模式相对滞后等问题。
 
 
 ### 4丶本人对以上综述的评价
 
-> 作为双边型平台的PP体育在依靠赛事直播内容吸引球迷用户的同时，要着手处理各种运营上的问题，探索新的商业模式。
+作为双边型平台的PP体育在依靠赛事直播内容吸引球迷用户的同时，要着手处理各种运营上的问题，探索新的商业模式。
 
 > 说明：开题时需要10篇引用文献，建议上述1-3每项只要一句话总结各3-4来源内容就可以
 
@@ -94,6 +94,7 @@ image:
 ## 四丶参考文献
 
 > 中文文档及文献书写格式要按国家标准GB/7714－87或ACM SIGCHI格式规定，英文文档及文献要按APA或ACM SIGCHI格式规定。务必要设置好Zotero及Word Plugin。
+
 1. 《基于用户服务体验提升的新型体育媒体平台创新策略—以 PP 体育为例》，郝建，2019
 2. 《体育直播的“下半场”：PP体育直播付费模式探析——以足球赛事直播为例》，张胡强，2019
 3. 《价值网络重构理论下体育新媒体商业模式研究》，翁凤瑜，邢尊明，胡国鹏，王永顺，2018
